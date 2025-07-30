@@ -8,7 +8,8 @@ This repository contains the code to reproduce experiments from Section 5.3 of t
 
 Which problem to run the solver of choice on. This file defines two boundary value problems:
 
-![Boundary Values 1](bv1.png) | ![Boundary Values 2](bv2.png)
+| ![Boundary Values 1](bv1.png) | ![Boundary Values 2](bv2.png) |
+|:-:|:-:|
 
 ### run_expt.py
 ### solvers.py
